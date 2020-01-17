@@ -9,7 +9,7 @@ class BubbelSortController extends Controller
     {
         $list = $request->input("list");
         $list = json_decode($list);
-        dd($this->bubbelSort($list));
+        return $this->bubbelSort($list);
     }
 
     private function bubbelSort(array $list)

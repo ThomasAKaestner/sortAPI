@@ -11,7 +11,6 @@ class SortController extends Controller
             <li>Bubbel Sort API: http://localhost:8080/sort/bubble</li>
             <li>Quick Sort: http://localhost:8080/sort/quick</li>
             <li>Selection Sort API:http://localhost:8080/sort/selection</li>
-            <li>Insertion Sort API: http://localhost:8080/sort/insertion</li>
             <li>Merge Sort API:http://localhost:8080/sort/merge</li>
         </ul>
         ";
