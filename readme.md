@@ -1,5 +1,6 @@
 # Sort API 
-This project is just a small api. The request takes an array. After sorting the array it returns it with comparisons(int) made.
+This project is just a small api which takes as a request an array/tupel.
+It can sort the array with 4 different algorithms.
 
 ## How to call the API
 * Post Request
