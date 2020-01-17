@@ -1,5 +1,5 @@
 # Sort API 
-This project is just a small api.
+This project is just a small api. The request takes an array. After sorting the array it returns it with comparisons(int) made.
 
 ## How to call the API
 * Post Request
